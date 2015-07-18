@@ -13,6 +13,7 @@
 		070678B91B5A351E00AB32A6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 070678B81B5A351E00AB32A6 /* Images.xcassets */; };
 		070678BC1B5A351E00AB32A6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 070678BA1B5A351E00AB32A6 /* LaunchScreen.xib */; };
 		070678C81B5A351E00AB32A6 /* Storyboard_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070678C71B5A351E00AB32A6 /* Storyboard_DemoTests.swift */; };
+		070678D21B5A5ABB00AB32A6 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070678D11B5A5ABB00AB32A6 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		070678C11B5A351E00AB32A6 /* Storyboard DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Storyboard DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		070678C61B5A351E00AB32A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		070678C71B5A351E00AB32A6 /* Storyboard_DemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storyboard_DemoTests.swift; sourceTree = "<group>"; };
+		070678D11B5A5ABB00AB32A6 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				070678B81B5A351E00AB32A6 /* Images.xcassets */,
 				070678BA1B5A351E00AB32A6 /* LaunchScreen.xib */,
 				070678AF1B5A351E00AB32A6 /* Supporting Files */,
+				070678D11B5A5ABB00AB32A6 /* TestViewController.swift */,
 			);
 			path = "Storyboard Demo";
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				070678B41B5A351E00AB32A6 /* ViewController.swift in Sources */,
+				070678D21B5A5ABB00AB32A6 /* TestViewController.swift in Sources */,
 				070678B21B5A351E00AB32A6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

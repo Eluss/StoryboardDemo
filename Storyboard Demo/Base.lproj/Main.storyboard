@@ -176,10 +176,10 @@
             </objects>
             <point key="canvasLocation" x="1659" y="-195"/>
         </scene>
-        <!--View Controller-->
+        <!--Test View Controller-->
         <scene sceneID="jAu-tf-C2O">
             <objects>
-                <viewController id="psl-Nr-Y1P" sceneMemberID="viewController">
+                <viewController id="psl-Nr-Y1P" customClass="TestViewController" customModule="Storyboard_Demo" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cwX-Zq-gVq"/>
                         <viewControllerLayoutGuide type="bottom" id="gg3-ZD-QwK"/>
